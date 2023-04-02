@@ -1,6 +1,6 @@
 # CORN.I - CORN ANALYSIS
 
-> A corn mapping and forecasting system
+> A corn mapping disease forecasting system and analysis using machine learning approach for municipal of candelaria quezon province agriculture office
 
 <br>
 
