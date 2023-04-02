@@ -1,3 +1,27 @@
+# CORN.I - CORN ANALYSIS
+
+> A corn mapping and forecasting system
+
+<br>
+
+# Pag mamapa at Pag tataya
+
+![screenshot](https://github.com/mirasrobert//corn-i-thesis/blob/main/screenshots/img/map.png)
+
+# Lingguhang Talaarawan
+
+![screenshot](https://github.com/mirasrobert//corn-i-thesis/blob/main/screenshots/img/tables.png)
+
+# Mag-uload ng Data
+
+![screenshot](https://github.com/mirasrobert//corn-i-thesis/blob/main/screenshots/img/upload.png)
+
+## Prerequesites
+
+- Pipenv
+- ReactJS
+- Python
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
