@@ -16,7 +16,7 @@
 
 ![screenshot](https://raw.githubusercontent.com/mirasrobert/corn-i-thesis/main/screenshots/upload.png)
 
-## Prerequesites
+## Prerequisites
 
 - Pipenv
 - ReactJS
