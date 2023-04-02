@@ -6,15 +6,15 @@
 
 # Pag mamapa at Pag tataya
 
-![screenshot](https://github.com/mirasrobert//corn-i-thesis/blob/main/screenshots/img/map.png)
+![screenshot](https://raw.githubusercontent.com/mirasrobert/corn-i-thesis/main/screenshots/map.png)
 
 # Lingguhang Talaarawan
 
-![screenshot](https://github.com/mirasrobert//corn-i-thesis/blob/main/screenshots/img/tables.png)
+![screenshot](https://raw.githubusercontent.com/mirasrobert/corn-i-thesis/main/screenshots/tables.png)
 
 # Mag-uload ng Data
 
-![screenshot](https://github.com/mirasrobert//corn-i-thesis/blob/main/screenshots/img/upload.png)
+![screenshot](https://raw.githubusercontent.com/mirasrobert/corn-i-thesis/main/screenshots/upload.png)
 
 ## Prerequesites
 
